@@ -7,9 +7,7 @@ let bombhrenov;
 let FBR;
 let dafiga;
 
-function preload() {
-  stoneImg = loadImage("sprites/Blocks/SolidBlock.png");
-}
+
 
 function setup() {
   let canvas = createCanvas(680, 520);
